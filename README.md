@@ -11,6 +11,7 @@
 [![codecov](https://codecov.io/gh/AstraZeneca/kallisto/branch/master/graph/badge.svg?token=HI0U0R96X8)](https://codecov.io/gh/AstraZeneca/kallisto)
 [![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/AstraZeneca/kallisto.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/AstraZeneca/kallisto/context:python)
 [![status](https://joss.theoj.org/papers/16126cbcfb826bf4810d243a009a6b02/status.svg)](https://joss.theoj.org/papers/16126cbcfb826bf4810d243a009a6b02)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fkallisto.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fkallisto?ref=badge_shield)
 
 # Table of Contents
 
@@ -172,3 +173,7 @@ Eike Caldeweyher, J. Open Source Softw., *2021*, 6, 3050. DOI: [10.21105/joss.03
   journal = {J. Open Source Softw.}
 }
 ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fryanlink%2Fkallisto.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fryanlink%2Fkallisto?ref=badge_large)
